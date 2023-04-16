@@ -1,10 +1,7 @@
 # IoT
 
+The system aims to detect the presence of combustible gases and smoke using a gas sensor to increase safety and prevent fires and casualties in homes, offices, etc.
 
-Il sistema realizzato si pone l’obiettivo di rilevare la presenza di gas combustibili e fumo tramite l’utilizzo di un sensore di gas, al fine di aumentare la sicurezza ed evitare la presenza di incendi e vittime in abitazioni, uffici ecc.. 
-
-
-- può essere integrato all’interno di un sistema in grado di attivare gli idranti anti-incendio in caso di un pericolo medio (led arancione lampeggiante) e in grado di chiamare i pompieri in caso di pericolo alto, con presenza di led rosso e suono assordante;
-- può essere utilizzato nelle scuole per una maggiore sicurezza in caso di incendio, o semplicemente per evitare che gli alunni fumano nei luoghi in cui è proibito, aggiungendo, ad esempio, una telecamera in grado di effettuare una Person Detection/Re-identification. 
-- può essere utilizzato nei boschi, per evitare che un incendio si espande, associando tale rilevatore ad un idrante antincendio in grado di attivarsi in corrispondenza di una notifica.
-
+- It can be integrated into a system capable of activating fire hydrants in case of medium danger (flashing orange LED) and calling firefighters in case of high danger, with a presence of a red LED and a loud sound.
+- It can be used in schools for greater safety in case of a fire, or simply to prevent students from smoking in prohibited areas, by adding, for example, a camera capable of Person Detection/Re-identification.
+- It can also be used in forests to prevent the spread of fires, by associating the detector with a fire hydrant that can be activated upon notification.
